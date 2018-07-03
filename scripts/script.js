@@ -68,6 +68,8 @@ const displayResult = () => {
    if(document.querySelector('#Grams-output'))document.querySelector('#Grams-output').innerHTML = gOutput
    if(document.querySelector('#Pounds-output'))document.querySelector('#Pounds-output').innerHTML = lbsOutput
 }
-
+const validationTextInput = () => {
+    
+}
 addEventListenerToTextInput()
 addEventListenersToDropDownMenu()
