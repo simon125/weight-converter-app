@@ -11,4 +11,4 @@ App which convert curently four weight units. It contains text field in which us
 
 - in the top of the section you can see the link in the description or you can see progres in the link below
 
-[LINK][Weight converter app](https://simon125.github.io/weight-converter-app/)
+[Weight converter app](https://simon125.github.io/weight-converter-app/)  <===LINK 
